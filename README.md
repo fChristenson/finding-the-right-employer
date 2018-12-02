@@ -20,7 +20,7 @@ The first thing to think about when you start looking for a job is what companie
 
 #### Rule of thumb 1
 
-A good rule of thumb is to look for larger product companies, these are companies who have a system that is making them money and they are looking for fulltime developers to join their teams.
+A good rule of thumb is to look for larger product companies, these are companies who have a system that is making them money and they are looking for full time developers to join their teams.
 
 The reason behind this is that larger product companies have the resources to train juniors and they are likely to have people who will become your mentors and this is critical if you want to learn how to be a professional.
 
@@ -30,7 +30,7 @@ Consultancies is a bit of a risk early in your career but can also work very wel
 
 ### What to do before contacting the company
 
-Before you reach out to a company or you responde to a recruiter do some basic research about the nature of their business, a quick search will give you the company size and a understanding for what type of application development they do.
+Before you reach out to a company or you respond to a recruiter do some basic research about the nature of their business, a quick search will give you the company size and a understanding for what type of application development they do.
 
 #### Rule of thumb 3
 
@@ -61,7 +61,7 @@ Show a genuine interest in your craft so you can ask open questions that forces 
 Examples could be:
 
 * "I really love ..., do you have anything in IT that you get excited about?"
-* "I understand that you are really good at ... what is your favourite feature?"
+* "I understand that you are really good at ... what is your favorite feature?"
 * "How do you onboard new people, do you do any pair programming?"
 
 These sorts of questions will give you insight in to the sort of people who are working in your team, if they like what they do and how likely they are to enjoy collaboration.
